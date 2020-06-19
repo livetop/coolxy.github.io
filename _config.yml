@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: 长鸿的博客
-description: 欢迎你来到长鸿的博客！
+description: 欢迎你来到长鸿的博客！点”。
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/coolxy/coolxy.github.io
@@ -10,7 +10,7 @@ url: https://github.com/coolxy/coolxy.github.io
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: ''
+baseurl: 
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"

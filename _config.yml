@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: 长鸿的博客
-description: 欢迎你来到长鸿的博客！点”。
+description: 欢迎你来到长鸿的博客！”。
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/coolxy/coolxy.github.io
@@ -27,3 +27,5 @@ markdown: kramdown
 gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
+
+

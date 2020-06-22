@@ -84,7 +84,8 @@ Eg: \[长鸿的博客\]\[ch\]
 \[!\[图片替代文字\]\(图片地址\)\]\(链接地址\)  
 
 [![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)](http://www.coolxy.cn)  
-***
+
+****
 
 ## 6. 代码区块  
 语法：  
